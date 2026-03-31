@@ -11,29 +11,29 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Shiny Webapps with R for Geospatial Exploration' # FIXME
+title: 'QCIF R Shiny Essentials' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 2024-01-07 # FIXME
+created: 2026-03-24 # FIXME
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, R, shiny, geospatial' # FIXME
+keywords: 'software, data, lesson, R, shiny' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'beta' # FIXME
+life_cycle: 'pre-alpha' # FIXME
 
 # License of the lesson
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/cobalt-casco/r-shiny-geospatial' # FIXME
+source: 'https://github.com/erinmgraham/r-shiny-qcif' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'jarrett.byrnes@umb.edu' # FIXME
+contact: 'erin.graham@jcu.edu.au' # FIXME
 
 # Navigation ------------------------------------------------
 #
@@ -64,8 +64,6 @@ episodes:
 - 03-input-output.Rmd
 - 04-reactives.Rmd
 - 05-publishing-shiny-app.Rmd
-- 06-translating-shiny.Rmd
-- 07-spatial-input-selection.Rmd
 
 # Information for Learners
 learners:
@@ -88,5 +86,5 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://cobalt-casco.github.io/r-shiny-geospatial/'
+#url: TBD
 
